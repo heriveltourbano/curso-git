@@ -1,0 +1,5 @@
+git clone
+git status
+git pull
+git push
+git add *                    -> adiciona o arquivo ao repositorio 
